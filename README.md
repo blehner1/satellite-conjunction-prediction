@@ -108,7 +108,6 @@ Create a `config.py` file in the project root:
 USERNAME = "your_email@example.com"
 PASSWORD = "your_password"
 ```
-> ⚠️ `config.py` is gitignored — never commit credentials.
 
 ### Run the Full Pipeline
 ```bash
