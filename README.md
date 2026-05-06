@@ -1,7 +1,7 @@
 # Satellite Conjunction Risk Prediction
 ### Space Domain Awareness | Machine Learning | Python
 
-> An end-to-end ML pipeline that predicts satellite conjunction events using real orbital data from Space-Track.org — replicating Space Domain Awareness workflows used by U.S. Space Force.
+> An end-to-end ML pipeline that predicts satellite conjunction events using real orbital data from Space-Track.org.
 
 ![Dashboard](assets/dashboard_screenshot.png)
 
