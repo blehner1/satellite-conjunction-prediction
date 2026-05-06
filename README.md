@@ -175,8 +175,7 @@ This project directly replicates analytical workflows used by U.S. Space Force:
 ## Author
 
 **Bryce Lehner**  
-MS Business Analytics candidate | National security & space domain focus  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+MS Business Analytics candidate, SMU Cox School of Business | BA Intelligence & Cyber Operations, USC
 
 ---
 
